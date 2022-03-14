@@ -1,0 +1,31 @@
+body {
+  background-color: #655d8a;
+}
+
+#container {
+  background-color: #7897ab;
+  border: 0.3em solid #fdceb9;
+  height: 275px;
+  width: 750px;
+  text-align: center;
+  margin: 10em auto;
+}
+
+#btn {
+  cursor: pointer;
+  margin: 1em auto;
+  width: 275px;
+  font-size: 1.2em;
+  background-color: #c0bfbf;
+  border-radius: 0.3em;
+}
+
+#btn:hover {
+  background-color: #e9e3e3;
+}
+
+#output {
+  margin: 1em auto;
+  font-size: 26px;
+  color: white;
+}
